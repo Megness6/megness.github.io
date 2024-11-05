@@ -1,4 +1,4 @@
-# Data Scientist
+# Meghamala Pavani
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
