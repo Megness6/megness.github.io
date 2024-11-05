@@ -47,22 +47,26 @@ With a deep interest in predictive analytics and blending data insights with bus
 - Designed and optimized stored procedures in DB2 database, reducing testing time by 20% and speeding up issue resolution by 65%.
 - Acted as a key liaison between project teams, increasing productivity by 30%.
 
-## Projects
+## Projects 🌟
 
-### 1. **Power Platform Solutions for Retail**
+### 1. **[Power Platform Solutions for Retail](https://github.com/yourusername/power-platform-solutions)**
 - **Description:** Developed and implemented multiple solutions using Power Apps and Power Automate to streamline business processes for retail clients, automating tasks and significantly reducing operational time.
 - **Technologies Used:** Power Apps, Power Automate, SharePoint, Dataverse
 - **Outcome:** Reduced enterprise email review time by 87.5% and improved task completion rates by 20%.
+- **View the Project:** [GitHub Repository](https://github.com/yourusername/power-platform-solutions)
 
-### 2. **Data Migration for Retail Organization**
+### 2. **[Data Migration for Retail Organization](https://github.com/yourusername/data-migration-project)**
 - **Description:** Led a data migration project, using Azure Data Factory to migrate and transform data for a major UK-based retail client, ensuring the new system aligned with business needs.
 - **Technologies Used:** Azure Data Factory, SQL Server, Microsoft Power BI
 - **Outcome:** Improved data migration efficiency by 30% and delivered key insights to stakeholders using Power BI visualizations.
+- **View the Dashboard:** [Retail Data Migration Dashboard (Power BI)](https://app.powerbi.com/reportLink)
 
-### 3. **Banking Module Development**
+### 3. **[Banking Module Development](https://github.com/yourusername/banking-module)**
 - **Description:** Designed and implemented banking modules to facilitate faster data processing and improved issue resolution.
 - **Technologies Used:** DB2, T-SQL
 - **Outcome:** Improved data loading speed by 40% and reduced testing and resolution time by 65%.
+- **Project Report (PDF):** [Download the PDF Report](https://github.com/yourusername/repository-name/blob/main/project-report.pdf)
+
 
 ## Contact Me
 
