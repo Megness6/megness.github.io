@@ -5,7 +5,7 @@ title: Meghamala Pavani
 
 
 
-## About me
+## About Me
 I’m a data professional with a strong foundation in data analysis, visualization, and business intelligence, backed by a Master’s degree in Data Science. I’m passionate about diving into data, uncovering insights, and transforming those insights into meaningful, strategic improvements. Through my experience in high-impact projects, I’ve learned the value of translating complex data into actionable business strategies and have seen firsthand how data-driven decision-making can fuel success.
 
 I thrive in dynamic environments that call for creative problem-solving and collaboration. Whether it’s working through ambiguity, figuring things out on the fly, or collaborating with diverse teams, I’m energized by roles that allow me to bridge the gap between data insights and business goals and see the real-world impact of my work.
