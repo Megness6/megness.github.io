@@ -1,4 +1,4 @@
-## About Me
+## About Megs
 
 I’m a data professional with a strong foundation in data analysis, visualization, and business intelligence, backed by a Master’s degree in Data Science. I’m passionate about diving into data, uncovering insights, and transforming those insights into meaningful, strategic improvements. Through my experience in high-impact projects, I’ve learned the value of translating complex data into actionable business strategies and have seen firsthand how data-driven decision-making can fuel success.
 
