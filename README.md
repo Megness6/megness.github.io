@@ -1,7 +1,3 @@
-# Portfolio
-
-Welcome to my portfolio repository! Here, you will find an overview of my skills, professional experience, projects, and ways to contact me. This portfolio showcases my work in data science, business analysis, software development, and Power Platform development.
-
 ## About Me
 
 I am a highly motivated and detail-oriented professional with a Master's degree in Data Science and Applications from the University at Buffalo, graduating with a 4.0 GPA. I have experience in a wide range of fields including business data engineering, business analysis, and software development, with expertise in data visualization, system analysis, and process improvement. I thrive in environments where I can apply both my technical and analytical skills to create innovative solutions and drive strategic decision-making.
