@@ -5,13 +5,13 @@ title: Meghamala Pavani
 
 
 
-## About Me
+## About Me 🧑‍💻
 I’m a data professional with a strong foundation in data analysis, visualization, and business intelligence, backed by a Master’s degree in Data Science. I’m passionate about diving into data, uncovering insights, and transforming those insights into meaningful, strategic improvements. Through my experience in high-impact projects, I’ve learned the value of translating complex data into actionable business strategies and have seen firsthand how data-driven decision-making can fuel success.
 
 I thrive in dynamic environments that call for creative problem-solving and collaboration. Whether it’s working through ambiguity, figuring things out on the fly, or collaborating with diverse teams, I’m energized by roles that allow me to bridge the gap between data insights and business goals and see the real-world impact of my work.
 
 
-## Skills
+## Skills 🛠️
 
 - **Data Analytics:** Python, R, SQL, Microsoft Power BI, Tableau, SPSS, Microsoft Azure Data Factory
 - **Business Intelligence & Reporting:** Power BI, Tableau, Microsoft Excel, IBM Cognos, Snowflake, Oracle, SQL Server, Storytelling
@@ -21,7 +21,7 @@ I thrive in dynamic environments that call for creative problem-solving and coll
 - **Data Engineering & ETL:** Data migration, Data pipeline creation, data extraction and transformation, data quality improvement
 - **Project Management & Collaboration:** Agile methodologies, stakeholder management, cross-functional team collaboration, ownership, leadership
 
-## Professional Experience
+## Professional Experience 💼
 
 ### Lead Business Data Engineer  
 **Tata Consultancy Services (TCS)**
@@ -67,7 +67,7 @@ I thrive in dynamic environments that call for creative problem-solving and coll
 - **Description:** Conducted an exploratory analysis on Marvel movie scripts, focusing on dialogue trends for six primary Avengers characters in "Infinity War" and "Endgame." Visualizations highlighted dialogue patterns and character prominence.
 - **Technologies Used:** Python (Seaborn, Matplotlib), Jupyter Notebook
 
-## Contact Me
+## Contact Me 📫
 
 If you'd like to reach out to discuss potential opportunities or collaboration, feel free to contact me:
 
