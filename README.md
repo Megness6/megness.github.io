@@ -70,4 +70,3 @@ If you'd like to reach out to discuss potential opportunities or collaboration, 
 - **GitHub:** [GitHub Profile](https://github.com/Megness6)
 
 Feel free to browse my repositories for more details on specific projects and technical solutions.
-![image](https://github.com/user-attachments/assets/39c4be62-fd87-4f40-91f1-aa80265eab0f)  
